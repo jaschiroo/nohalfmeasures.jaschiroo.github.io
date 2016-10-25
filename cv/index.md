@@ -26,7 +26,7 @@ title: Justina Schiroo, C.V.
 - Assistance in curriculum development for a 2-day industry training
 
 {% include job.html job_title="Summer Education Support Assistant"
-                    employer="National Food Protection and Defense Institute"
+                    employer="National Center for Food Protection and Defense"
                     job_date="May – August 2015"
                     location="Saint Paul, MN"%}
 - Assisted with planning and curriculum development for international trainings

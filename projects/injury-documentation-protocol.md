@@ -26,11 +26,11 @@ In order to create the two sets of diagrams, I tried to take the desired photos 
 
 I chose to create line drawings for this guide. The few existing guides had grayscale example photographs, which deteriorated quickly through repeated photocopying. I needed to create a guide that could be easily copied and shared, and a simplified, non-gender specific line drawing was the easiest way to satisfy those requirements.
 
-[example of style]
-
 <img style="height:300px;"
  src="/assets/photo_protocol/skull_back_FullDiagram.png"
  title="back of skull diagram and example">
+
+ I also decided to omit specific directions for distance and angle, and instead let the photographer make their own decisions to create the desired image in the diagram. The camera I used in the diagrams is purposely over-sized to prevent unwanted interpretations of distance, and the lines are there to help the photographer figure out what should be in the photograph regardless of distance.
 
 After completing the majority of the simple diagrams and examples, I ran them by the team and got feedback, particularly on other images to include, adjustments to the poses, and diagrams that needed to be modified. I created all the auxiliary images the guide needed: icons for flash, the SD card, etc, so that we would have free use of the images. The team later tested the protocol with a group of Research Assistants for comprehension.
 

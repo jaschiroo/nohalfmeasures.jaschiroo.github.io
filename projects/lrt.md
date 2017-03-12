@@ -12,9 +12,13 @@ In the summer of 2014 Metro Transit opened the Green Line, a light rail line tha
 
 Shortly after, in August, a woman was struck by a train as she attempted to cross the tracks at Westgate Station. This incident prompted her father to find out why she did not see the train, and led him to the UMN Human Factors department. As part of our Service Design class, my team investigated what impacts pedestrian and rider safety around light rail trains on the Green Line.
 
-In order to understand the goals and pressures of riders, we started by going out and watching how people use the system and access the stations. We saw people jaywalking, hopping barriers, confusing the two stations, and walking along the tracks, all of which were able to see behaviors that indicated a disconnect between intended and actual use. Most riders are fairly happy with the train system itself based on interviews we performed on the train.
+We saw that some stations had a higher rate of incidents than the other two station types based on Metro Transit data.
 
-There are factors in the physical design of the stations that directly impact rider decisions. The stations occur in three designs: stations that share a center platform, that have two facing platforms, and those split across an intersection.
+<img style="width:500px;"
+   src="/assets/lrt/heatmap.png"
+   title="Heatmap of LRT incidents">
+
+It turns out that the stations occur in three designs: stations that share a center platform, that have two facing platforms, and those split across an intersection.
 
 <img style="width:300px;"
  src="/assets/lrt/center.png"
@@ -34,13 +38,7 @@ There are factors in the physical design of the stations that directly impact ri
 
    Split Station Diagram
 
-We saw that split stations had a higher rate of incidents than the other two station types based on Metro Transit data.
-
-<img style="width:500px;"
-   src="/assets/lrt/heatmap.png"
-   title="Heatmap of LRT incidents">
-
-This is due to the way the rider is led to access the station.
+The stations with higher incident rates are all split stations, and the physical design of these stations directly impact rider decisions. This is due to the way the rider is led to access the station.
 
 <img style="width:500px;"
    src="/assets/lrt/path.png"

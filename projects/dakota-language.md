@@ -10,7 +10,7 @@ We started the project by meeting with a member of Dakhóta Iápi Okhódakičhiy
 
 My team brainstormed a hundred ideas, and sketched out four apps that would support classroom learning: a vocabulary app, a famous Dakota people app, an "interactive scene" app, and a game that taught Dakota stories. Based on initial user surveys and interviews, we selected the vocabulary builder app for further development. We created a storyboard to develop our use story, and mapped out the flow of our app.
 
-<img style="height:300px;"
+<img style="max-width:50%;height:auto"
  src="/assets/dakota/storyboard.jpg"
  title="app storyboard">
 
@@ -18,36 +18,36 @@ Five students agreed to meet with us and discuss the methods they use to study f
 
 We had our users try out the paper prototype with three tasks. The app had two types of functionality, study and challenge. In study mode, students could access their vocabulary lists and study the words like flashcards. In challenge mode, random questions were presented to users asking them to identify the word based on the image, the image from the word, and the word from a recording.
 
-<img style="height:300px;"
+<img style="max-width:50%;height:auto"
  src="/assets/dakota/study.jpg"
  title="study mode">
- <img style="height:300px;"
+ <img style="max-width:50%;height:auto"
  src="/assets/dakota/challenge.jpg"
  title="challenge mode">
 
  From this paper prototype user testing we learned more about how users approached our app, and refined our workflow and icons. The final app was implemented using Android Studio, and we were able to have users try out the app on Android devices belonging to the team.
 
-<img style="height:300px;"
+<img style="max-width:30%;height:auto"
  src="/assets/dakota/splash.png"
  title="splash page">
 
  Practice mode:
 
-<img style="height:300px;"
+<img style="max-width:30%;height:auto"
  src="/assets/dakota/Word_List.png"
  title="Word list">
- <img style="height:300px;"
+ <img style="max-width:30%;height:auto"
  src="/assets/dakota/Practice_Screen.png"
  title="Flashcard practice screen">
 
  Challenge mode:
 
- <img style="height:300px;"
+ <img style="max-width:30%;height:auto"
  src="/assets/dakota/Audio_to_Word.png"
  title="audio to word screen">
- <img style="height:300px;"
+ <img style="max-width:30%;height:auto"
  src="/assets/dakota/Picture_to_Word.png"
  title="picture to word screen">
- <img style="height:300px;"
+ <img style="max-width:30%;height:auto"
  src="/assets/dakota/Word_to_Picture.png"
  title="word to picture screen">

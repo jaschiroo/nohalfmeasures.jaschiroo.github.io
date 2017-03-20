@@ -26,7 +26,7 @@ In order to create the two sets of diagrams, I tried to take the desired photos 
 
 I chose to create line drawings for this guide. The few existing guides had grayscale example photographs, which deteriorated quickly through repeated photocopying. I needed to create a guide that could be easily copied and shared, and a simplified, non-gender specific line drawing was the easiest way to satisfy those requirements.
 
-<img style="height:300px;"
+<img style="max-width:90%;height:auto"
  src="/assets/photo_protocol/skull_back_FullDiagram.png"
  title="back of skull diagram and example">
 
@@ -36,19 +36,19 @@ After completing the majority of the simple diagrams and examples, I ran them by
 
 Some examples from the finished guide:
 
-<img style="height:300px;"
+<img style="max-width:90%;height:auto"
 src="/assets/photo_protocol/arm_back_FullDiagram.png"
 title="full back diagram and example">
 
 Diagram for photographing the full back
 
-<img style="height:300px;"
+<img style="max-width:90%;height:auto"
 src="/assets/photo_protocol/arm_back_Detail_Upper.png"
 title="upper arm diagram and example">
 
 Diagram for photographing the back of the upper arm
 
-<img style="height:300px;"
+<img style="max-width:90%;height:auto"
 src="/assets/photo_protocol/elbow_FullDiagram_NEW.png"
 title="elbow diagram and example">
 

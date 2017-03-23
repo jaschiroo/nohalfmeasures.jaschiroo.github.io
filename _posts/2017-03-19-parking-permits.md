@@ -11,88 +11,88 @@ It was motivated by the parking permit process for residents of 29 designated pe
 I redesigned the UI of the website to allow for online permit applications, in order to improve the process of getting a permit. This system needs to establish that an applicant lives in a permit zone, and record residency information, vehicle information and take payment. From the resident's perspective, it needs to be easy to see if they need a permit, and flexible enough to accept the residency and vehicle information that they have on hand. Residents want to be able to apply for or renew their permits online at their convenience. Permit enforcement wants residents to have current permits placed correctly on their vehicles to make enforcement easier.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
- src="/assets/Sprints/parking-permits/map-search.png"
+ src="/assets/sprints/parking-permits/map-search.png"
  title="Search by address">
 
  Residents begin by entering their address to either find their zone or find out that they do not need a permit.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/map-results-permit.png"
+src="/assets/sprints/parking-permits/map-results-permit.png"
 title="map result - permit needed">
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/map-results-no-permit.png"
+src="/assets/sprints/parking-permits/map-results-no-permit.png"
 title="map result - no permit needed">
 
 Applying for a permit requires residency information, most often confirmed by driver's license. Since residents may be applying for a permit because they recently moved to the zone, they need the option to provide further proof of residency.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-residency-2a.png"
+src="/assets/sprints/parking-permits/permit-app-residency-2a.png"
 title="residency information screen">
 
 For renters a lease, utility bill or notarized statement can be used to establish temporary residency in the zone which will need to be reviewed by hand.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-residency-3a.png"
+src="/assets/sprints/parking-permits/permit-app-residency-3a.png"
 title="Search by address">
 
 Once residency can be verified, the applicant moves on to the next section.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-residency-4.png"
+src="/assets/sprints/parking-permits/permit-app-residency-4.png"
 title="Search by address">
 
 Vehicle information can be confirmed by title or registration number, uploading an insurance card, or the VIN. The VIN provides vehicle description, or it can be entered manually.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-vehicle.png"
+src="/assets/sprints/parking-permits/permit-app-vehicle.png"
 title="Search by address">
 
 After they have entered their residency and vehicle information, they might need the option to add another permit or a special permit.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-add-another.png"
+src="/assets/sprints/parking-permits/permit-app-add-another.png"
 title="Search by address">
 
 If they select to add other permits, it takes them through the registration process for those permits. Otherwise, applicants pay for the permits they selected.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-payment.png"
+src="/assets/sprints/parking-permits/permit-app-payment.png"
 title="Search by address">
 
 After paying, they see a confirmation screen that gives them a processing number for trackability, an estimated timeline, and the option to receive updates. Transparency in a government system like this builds trust with users.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-app-finish.png"
+src="/assets/sprints/parking-permits/permit-app-finish.png"
 title="Search by address">
 
 Once residents receive their permits, they also get an instruction diagram visually describing how to place the permit on their vehicle. Visual instructions help to reduce confusion and increase compliance by mapping directly to the user's context.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-instructions.png"
+src="/assets/sprints/parking-permits/permit-instructions.png"
 title="Search by address">
 
 If a resident were to have selected to purchase other permits, they would select the type and number of each, shown the total and summary screen, and pay for the special permits.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/other-permits.png"
+src="/assets/sprints/parking-permits/other-permits.png"
 title="Search by address">
 
 They would receive a similar confirmation screen, along with a diagram for placement upon receiving their special permits.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/other-permits-instructions.png"
+src="/assets/sprints/parking-permits/other-permits-instructions.png"
 title="Search by address">
 
 For current residents seeking to renew their permits, the process is streamlined, since their information is already entered. They first search for their existing permit by name, number or address.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-renewal.png"
+src="/assets/sprints/parking-permits/permit-renewal.png"
 title="Search by address">
 
 The system finds their record, and they are prompted to confirm or add a new permit.
 
 <img style="max-width:90%;height:auto;border:1px solid black;" align="middle"
-src="/assets/Sprints/parking-permits/permit-renewal1.png"
+src="/assets/sprints/parking-permits/permit-renewal1.png"
 title="Search by address">
 
 Finally, they reach the payment screen and confirmation page as with the permit application, and receive an instruction diagram with their renewed permits.

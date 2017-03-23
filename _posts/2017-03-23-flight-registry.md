@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design Sprint: Drone Flight Registry"
-date: 2017-03-19
+date: 2017-03-23
 ---
 
 In 2016 over 670,000 drones were registered with the federal government, and in early 2017 our household joined them. After paying a $5 registration fee and making three phone calls, our drone was ready for its maiden flight at a park.

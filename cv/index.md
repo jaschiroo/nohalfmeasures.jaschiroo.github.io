@@ -4,51 +4,51 @@ title: Justina Schiroo, C.V.
 ---
 
 # Professional experience #
+{% include job.html job_title="Team Supervisor"
+                    employer="American Red Cross"
+                    job_date="February 2017 - Present"
+                    location="Saint Paul, MN"%}
+ - Define daily blood drive equipment and staffing needs to meet goals, and work with upper management and other organizational stakeholders to meet identified needs
+- Quickly develop working relationships with site coordinators, volunteers and scheduled staff
+- Manage a team of phlebotomists, including training, evaluation, advancement and discipline
+
 {% include job.html job_title="Teaching Assistant"
                     employer="University of Minnesota"
-                    job_date="August 2016 - Present"
+                    job_date="August 2016 - December 2016"
                     location="University of Minnesota, Minneapolis, MN"%}
- - Teaching Assistant for Computer Science 5115: User Interface Design, Evaluation and Implementation
+ - Guided students through UI/UX design as they iteratively developed and tested mobile apps
 
 {% include job.html job_title="Loss Prevention/Emergency Preparedness Intern"
                     employer="Caribou Coffee"
                     job_date="May – August 2016"
                     location="Brooklyn Center, MN"%}
-- Revision and development of emergency procedures for Caribou coffee stores
-- Research into compliance with new FSMA legislation
-- Development of emergency procedure manual prototypes and mobile apps
+- Developed emergency procedures for Caribou Coffee stores resulting in a technical document aimed at frontline staff
+- Translated high-level organizational goals into actionable requirements, defined a project timeline and development phases
 
 {% include job.html job_title="Education Support Assistant"
                     employer="Food Protection and Defense Institute"
-                    job_date="August 2015 – May 2016"
+                    job_date="May 2015 – May 2016"
                     location="Saint Paul, MN"%}
-- Development of an 8-part series of online modules for food industry partners
-- Assistance in curriculum development for a 2-day industry training
-
-{% include job.html job_title="Summer Education Support Assistant"
-                    employer="National Center for Food Protection and Defense"
-                    job_date="May – August 2015"
-                    location="Saint Paul, MN"%}
-- Assisted with planning and curriculum development for international trainings
-- Curriculum development and running of two trainings for FBI WMD Coordinators in Food Defense
-- User interface testing and design with the NCFPD Frame tool for emergency response coordination and qualification records
-- Heuristic evaluation and interface assessment of the Focused Integration of Data for Early Signals (FIDES) tool
-- Began work on module design and development for online Food Defense training course
+- Assisted permanent staff in managing the delivery of eight online training modules funded by DHS
+- Created timelines, tracked multiple modules through each development phase and managed delays
+- Developed curriculum for a 2-day industry trainings tailored for individual company contexts
 
 ---------------------------
 
 # Skills #
 
-- Usability testing, interface design, low-fidelity prototyping, user experience design, service design, emergency procedure development, policy writing, food defense compliance, statistics
-- Languages: LaTeX, R
-- Applications: Google Apps, Lucidchart, Microsoft Office Suite, Moqups, R, Wrike
+- Team management and development, needs analysis, regulatory compliance
+- Iterative design, statistics, data gathering and analysis
+- Agile, timeline management, communication
+- Google Apps, Microsoft Office Suite, GIMP, social media, Moqups, Wrike
+- Python, Linux, HTML, CSS, Wordpress, Salesforce
 
 ---------------------------
 
 # Education #
 {% include degree.html deg_title="Ph.D. student"
                        university="University of Minnesota"
-                       deg_date="August 2014 - Present"
+                       deg_date="August 2014 - December 2016"
                        deg_area="Human Factors & Ergonomics"
                        location="Twin Cities, MN"%}
 {% include degree.html deg_title="B.A."

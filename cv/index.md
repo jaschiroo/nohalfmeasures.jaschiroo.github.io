@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Justina Schiroo, C.V.
+title: Justina Schiroo Resume
 ---
 
 # Professional experience #
@@ -39,6 +39,12 @@ title: Justina Schiroo, C.V.
 - Facilitated the delivery of eight online training modules funded by DHS
 - Created timelines, tracked multiple modules through each development phase and managed delays
 - Developed curriculum for a 2-day industry trainings tailored for individual company contexts
+
+{% include job.html job_title="Area Manager"
+                    employer="Dunn Bros Coffee"
+                    job_date="August 2013 - August 2014"
+                    location="Rochester, MN"%}
+- Managed daily operations of a franchise store including marketing, training, ordering and staffing
 
 ---------------------------
 

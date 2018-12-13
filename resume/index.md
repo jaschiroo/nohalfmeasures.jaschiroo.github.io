@@ -40,6 +40,12 @@ title: Justina Schiroo Resume
 - Created timelines, tracked multiple modules through each development phase and managed delays
 - Developed curriculum for a 2-day industry trainings tailored for individual company contexts
 
+{% include job.html job_title="Area Manager"
+                    employer="Dunn Bros Coffee"
+                    job_date="August 2013 - August 2014"
+                    location="Rochester, MN"%}
+- Managed daily operations of a franchise store including marketing, training, ordering and staffing
+
 ---------------------------
 
 # Skills #

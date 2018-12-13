@@ -52,7 +52,7 @@ title: Justina Schiroo, C.V.
 ---------------------------
 
 # Education #
-{% include degree.html deg_title="Ph.D. student"
+{% include degree.html deg_title="M.S."
                        university="University of Minnesota"
                        deg_date="August 2014 - December 2016"
                        deg_area="Human Factors & Ergonomics"

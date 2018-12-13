@@ -9,7 +9,7 @@ title: Justina Schiroo, C.V.
                     job_date="July 2018 - present"
                     location="Minneapolis, MN"%}
 - Reach out to business owners, establish timelines, carry out collaborative reviews and adhere to release deadlines
-- Re-started annual review process and brought the project from 30\% to completion in two quarters
+- Re-started annual review process and brought the project from 30% to completion in two quarters
 
 {% include job.html job_title="Team Supervisor"
                     employer="American Red Cross"

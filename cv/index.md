@@ -4,9 +4,16 @@ title: Justina Schiroo, C.V.
 ---
 
 # Professional experience #
+{% include job.html job_title="Business Analyst"
+                    employer="Genesis10 at Ameriprise Financial"
+                    job_date="July 2018 - present"
+                    location="Minneapolis, MN"%}
+- Reach out to business owners, establish timelines, carry out collaborative reviews and adhere to release deadlines
+- Re-started annual review process and brought the project from 30\% to completion in two quarters
+
 {% include job.html job_title="Team Supervisor"
                     employer="American Red Cross"
-                    job_date="February 2017 - Present"
+                    job_date="February 2017 - July 2018"
                     location="Saint Paul, MN"%}
  - Define daily blood drive equipment and staffing needs to meet goals, and work with upper management and other organizational stakeholders to meet identified needs
 - Quickly develop working relationships with site coordinators, volunteers and scheduled staff
@@ -22,14 +29,14 @@ title: Justina Schiroo, C.V.
                     employer="Caribou Coffee"
                     job_date="May – August 2016"
                     location="Brooklyn Center, MN"%}
-- Developed emergency procedures for Caribou Coffee stores resulting in a technical document aimed at frontline staff
-- Translated high-level organizational goals into actionable requirements, defined a project timeline and development phases
+- Planned and managed a project timeline and development phases for user research, prototyping and delivery
+- Developed emergency procedure manual prototypes and established mobile app requirements
 
 {% include job.html job_title="Education Support Assistant"
                     employer="Food Protection and Defense Institute"
                     job_date="May 2015 – May 2016"
                     location="Saint Paul, MN"%}
-- Assisted permanent staff in managing the delivery of eight online training modules funded by DHS
+- Facilitated the delivery of eight online training modules funded by DHS
 - Created timelines, tracked multiple modules through each development phase and managed delays
 - Developed curriculum for a 2-day industry trainings tailored for individual company contexts
 
@@ -37,9 +44,8 @@ title: Justina Schiroo, C.V.
 
 # Skills #
 
-- Team management and development, needs analysis, regulatory compliance
-- Iterative design, statistics, data gathering and analysis
-- Agile, timeline management, communication
+- Requirements gathering, needs elicitation, timeline management, communication, organization
+- UX, prototyping, user research, iterative design
 - Google Apps, Microsoft Office Suite, GIMP, social media, Moqups, Wrike
 - Python, Linux, HTML, CSS, Wordpress, Salesforce
 

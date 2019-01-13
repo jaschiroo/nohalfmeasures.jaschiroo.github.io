@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design Sprint: Skyway Guide"
-date: 2019-01-09
+date: 2018-12-28
 ---
 
 The Minneapolis skyway system boasts of being the longest continuous system in the world, at 11 miles of skyway spanning 80 city blocks (Thanks, [MentalFloss](http://mentalfloss.com/article/70549/25-things-you-should-know-about-minneapolis-and-st-paul).) Visitors always seem thrilled at the complexity of the system, but the regulars - downtown office workers and shoppers - can find not only an escape from the -3°F windchill but also shops, restaurants and coffee during the workday.

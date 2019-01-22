@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Italian Meatball Soup"
 date: 2019-01-21
 ---

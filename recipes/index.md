@@ -4,3 +4,5 @@ title: Recipes
 ---
 # {{ page.title }} #
 - __[Italian Meatball Soup](/recipes/italian-meatball-soup)__
+- __[Red Wing Jambalaya](/recipes/jambalaya)__
+- __[Justina's Saag Paneer](/recipes/saag-paneer)__

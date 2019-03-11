@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="29px" viewBox="0 0 24 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>bell</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bell" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="24" height="29"></rect>
+        <g id="noun_Alert_2281299" transform="translate(3.000000, 4.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group">
+                <path d="M7,18.0048 C7,19.1048 7.9,20.0048 9,20.0048 C10.1,20.0048 11,19.1048 11,18.0048 L7,18.0048 Z M18,16.0048 L0,16.0048 L0.001,16.0038 C1.921,14.0838 3,11.4798 3,8.7638 L3,8.0048 C3,5.3808 4.687,3.1558 7.034,2.3408 C7.016,2.2318 7,2.1198 7,2.0048 C7,0.9008 7.896,0.0048 9,0.0048 C10.104,0.0048 11,0.9008 11,2.0048 C11,2.1198 10.984,2.2318 10.966,2.3408 C13.312,3.1558 15,5.3808 15,8.0048 L15,8.7638 C15,11.4798 16.079,14.0838 17.999,16.0038 L18,16.0048 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

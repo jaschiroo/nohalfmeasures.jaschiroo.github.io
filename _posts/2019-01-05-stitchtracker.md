@@ -4,7 +4,7 @@ title: "Design Sprint: Stitch Tracker"
 date: 2019-01-05
 ---
 
- Whenever I start a new kniting or crochet pattern, the first thing I do is print it out so that I can cross off rows as I complete them. I recently had the frustrating experience of deciding to make a second hat right after completing the first, only to realize that my pattern was all scratched out and difficult to read, let alone scratch out again for the second hat. Why not have an app for this?
+ Whenever I start a new knitting or crochet pattern, the first thing I do is print it out so that I can cross off rows as I complete them. I recently had the frustrating experience of deciding to make a second hat right after completing the first, only to realize that my pattern was all scratched out and difficult to read, let alone scratch out again for the second hat. Why not have an app for this?
 
  <img style="max-width:90%;height:auto;border:1px solid black;"
   src="/assets/sprints/stitch/splash.png"

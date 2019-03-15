@@ -73,7 +73,7 @@ The basic idea from Param's tutorial is to find a few icons that embody the idea
     src="/assets/sprints/notify/Notification-Jelly.svg"
     title="Notification bell-jellyfish hybrid">
   <img style="max-width:30%;height:auto;border:1px solid black;"
-    src="/assets/sprints/notify/tentacles.svg"
+    src="/assets/sprints/notify/Tentacles.svg"
     title="Notification bell surrounded by jellyfish tentacles">
 
 Overall I think that if I had stumbled across the tutorials in the opposite order I would have had the chance to play with icon ideas more freely, but I wouldn't have gotten as much in-depth experience with Sketch's interface and creating an image with vector graphics. The Noun Project is a fantastic resource for building a logo and getting ideas, and I'm pretty pleased with how quickly I was able to move into more abstract and interesting logos after finding just two keyword-based images.

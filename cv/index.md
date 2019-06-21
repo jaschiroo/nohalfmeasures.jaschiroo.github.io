@@ -9,7 +9,7 @@ title: Justina Schiroo Resume
                     job_date="April 2019 - Present"
                     location="Minneapolis, MN"%}
 - Gather business requirements and maintain project backlogs to support agile product development
-- Constant communication on sprint deliverables and timelines through technical presentations
+- Maintain communication on sprint deliverables and timelines through technical presentations
 
 {% include job.html job_title="Business Analyst"
                     employer="Genesis10 at Ameriprise Financial"

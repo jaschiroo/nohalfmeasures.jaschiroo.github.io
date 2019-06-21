@@ -4,9 +4,16 @@ title: Justina Schiroo Resume
 ---
 
 # Professional experience #
+{% include job.html job_title="Senior Technical Business Analyst"
+                    employer="Stone Arch Bridge Group/Journey121"
+                    job_date="April 2019 - Present"
+                    location="Minneapolis, MN"%}
+- Gather business requirements and maintain project backlogs to support agile product development
+- Maintain communication on sprint deliverables and timelines through technical presentations
+
 {% include job.html job_title="Business Analyst"
                     employer="Genesis10 at Ameriprise Financial"
-                    job_date="July 2018 - present"
+                    job_date="July 2018 - April 2019"
                     location="Minneapolis, MN"%}
 - Reach out to business owners, establish timelines, carry out collaborative reviews and adhere to release deadlines
 - Re-started annual review process and brought the project from 30% to completion in two quarters

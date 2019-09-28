@@ -3,6 +3,9 @@ layout: default
 title: "Justina's Saag Paneer"
 date: 2019-01-21
 ---
+
+Justina's Saag Paneer
+
 This is a recipe tweaked from many other saag paneer recipes, taking bits that I loved and leaving difficult steps out. I think this one has the smoothest, most flavorful sauce.
 
 Ingredients

@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #BFC9CA;
+    color: black;
 }
 a:hover {
     text-decoration: underline;
@@ -22,15 +22,15 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: white;
+    color: black;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: white;
+    color: black;
 }
 footer {
-    border-top: 1px solid white;
+    border-top: 1px solid black;
     font-size: .8em;
 }
 
@@ -41,10 +41,31 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    color: white;
+    color: black;
 }
 
 li {
   font-size: 1.5em;
-  color: white;
+  color: black;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: lightgray; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  display: block;
 }

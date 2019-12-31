@@ -1,17 +1,23 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
+    font-family: "Lato", sans-serif;
+    background: #f1f1f1;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+
+.pagetitle{
+  background: white;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+
+* {
+  box-sizing: border-box;
 }
+
 a {
     text-decoration: none;
     color: black;
@@ -19,53 +25,60 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: black;
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: black;
-}
-footer {
-    border-top: 1px solid black;
-    font-size: .8em;
+
+.item1 { grid-area: headerbox; }
+.item2 { grid-area: navbar; }
+.item3 { grid-area: main; }
+.item4 { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+  grid-template-areas:
+    'headerbox headerbox'
+    'main navbar'
+    'footer navbar';
+    grid-gap: 10px;
+    background-color: #f1f1f1;
+    padding: 10px;
 }
 
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
+.headerbox {
+  background-color: white;
+  text-align: center;
+  padding: 20px 0;
 }
 
-ul.posts li {
-    list-style: none;
-    color: black;
+.header {
+  padding: 1px;
+  text-align: center;
+  background: gold;
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
 }
 
-li {
-  font-size: 1.5em;
-  color: black;
+.navbar {
+  background-color: white;
+  text-align: left;
+  padding: 5px 5px;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
 }
 
-.sidenav {
-  height: 100%;
-  width: 160px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
-  background-color: lightgray; /* Black */
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+.main {
+  text-align: left;
 }
 
-/* The navigation menu links */
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: black;
-  display: block;
+.footer {
+  background-color: white;
+  text-align: left;
+  padding: 20px 10px;
 }
+
+.card {
+   background-color: white;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+.object-fit_contain { object-fit: contain }

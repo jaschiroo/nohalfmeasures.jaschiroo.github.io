@@ -6,24 +6,26 @@
 	</head>
 	<body bgcolor = white>
 
-<div height="100px">
-</div>
-
-		<div class="sidenav">
-        		<a href="/">Home</a>
-        		<a href="/resume">Resume</a>
-						<a href="/projects">Projects</a>
-						<a href="/design-sprints">Design Sprints</a>
-						<a href="https://jschiroo.wordpress.com/" target="_blank">Ceramics Blog</a>
-						<a href="/recipes">Recipes</a>
+		<div class="grid-container">
+		  <div class="item1 headerbox">
+		  	<div class="header">
+		  	<h1>No Half Measures</h1>
+			</div>
 		</div>
-		<div class="container">
-    		{{ content }}
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:jaschiroo@gmail.com">email</a></li>
-			</ul>
-		</footer>
+
+		  <div class="item2 navbar">
+				<a href="/">Home</a>
+		  	<br><a href="/recipes">Recipes</a>
+		  	<br><a href="/adventures">(Mis)Adventures</a>
+				<br><a href="/about-me">About Me</a>
+		  </div>
+
+		  <div class="item3 main">
+				<div class="container">
+					{{ content }}
+				</div>
+		  </div>
+		  <div class="item4 footer"><a href="mailto:jaschiroo@gmail.com">Contact</a></div>
+		</div>
 	</body>
 </html>

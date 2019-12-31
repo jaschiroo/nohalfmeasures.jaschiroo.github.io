@@ -1,0 +1,13 @@
+---
+layout: default
+title: (Mis)Adventures
+---
+<div class="pagetitle">{{ page.title }}</div>
+
+{% for post in site.categories.adventures %}
+  <div class="card">
+    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <h5>{{ post.date | date_to_string }}</h5>
+    <img src="{{ post.image }}" width="50%">
+  </div>
+{% endfor %}

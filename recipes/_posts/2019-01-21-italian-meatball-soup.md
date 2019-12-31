@@ -4,8 +4,6 @@ title: "Italian Meatball Soup"
 date: 2019-01-21
 ---
 
-Italian Meatball Soup
-
 This is a recipe that I discovered a long time ago, and I make it over and over again. I've also heard it called "Wedding Soup". The original recipe was on a blog that no longer exists, so I'm sharing my modified version.
 
 Ingredients

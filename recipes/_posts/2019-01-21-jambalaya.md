@@ -4,8 +4,6 @@ title: "Red Wing Jambalaya"
 date: 2019-01-21
 ---
 
-Red Wing Jambalaya
-
 This recipe was given to me by a woman from a church in Red Wing, MN. The original recipe made a huge amount of food, so here is a version that makes 6-8 servings.
 
 Ingredients

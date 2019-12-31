@@ -4,8 +4,6 @@ title: "Rainbow Rice"
 date: 2019-05-03
 ---
 
-Rainbow Rice
-
 Ingredients
 - 2 cups of white rice
 - 2 cups water

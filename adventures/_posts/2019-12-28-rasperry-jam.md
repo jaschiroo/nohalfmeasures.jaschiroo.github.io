@@ -25,6 +25,8 @@ I struggle to fill three half-pint jars with the tar-like jam, and am honestly w
 
 This is where I know. That last jar starts cooling, and the resulting substance is hard enough to tap a spoon into and only leave a dent. The three full jars are still boiling, but I know this isn't how jam is supposed to feel.
 
+<img src="/assets/raspberrycandy.gif">
+
 After some frantic Googling, yes, I've overcooked my jam. Several things could have gone smoother: I should have watched some videos about how to tell whether your jam is done. I probably should've used a thermometer. I definitely need to figure out what to do now.
 
 After some helpful internet friends discuss this _very same_ problem (for those of you struggling like me, [this has helpful solutions for what to do now](https://www.houzz.com/discussions/1956773/what-to-do-with-overdone-jam) and [here is some general jam knowledge that I found helpful, plus some classic Serious Eats humor](https://www.seriouseats.com/2014/08/jam-making-101-pectin-sugar-gel-point.html)) I decide to add some boiling water, microwave my raspberry candy and stir. It basically can't get worse. Some other good suggestions are to get it out somehow, flatten it and dip it in chocolate, which also sounds appealing.

@@ -11,11 +11,11 @@ This is my first time making jam, as you can probably guess from the title. Here
 
 Now it's December, and I'm wondering, what do you do with five gallons of frozen raspberries? My first thought is jam. However, it's currently raining ice (thanks, Minnesota winter) and I don't have any pectin, so I try to find a recipe that will work. It calls for 4 cups of raspberries and 4 cups of sugar. Sounds easy enough. You gently warm the sugar in a glass dish in the oven at a low temperature to facilitate melting, and then you start cooking down the raspberries, add the sugar, and boil until (and I quote, because here's where the struggle started):
 
-> 3. Add warm sugar, return to a boil, and boil until mixture will form a gel (see tips, below), about 5 minutes.
+> _3. Add warm sugar, return to a boil, and boil until mixture will form a gel (see tips, below), about 5 minutes._
 
 Here's the tip:
 
-> • To determine when the mixture will form a gel, use the spoon test: Dip a cool metal spoon into the hot fruit. Immediately lift it out and away from the steam and turn it horizontally. At the beginning of the cooking process, the liquid will drip off in light, syrupy drops. Try again a minute or two later — the drops will be heavier. The jam is done when the drops are very thick and two run together before falling off the spoon.
+> _• To determine when the mixture will form a gel, use the spoon test: Dip a cool metal spoon into the hot fruit. Immediately lift it out and away from the steam and turn it horizontally. At the beginning of the cooking process, the liquid will drip off in light, syrupy drops. Try again a minute or two later — the drops will be heavier. The jam is done when the drops are very thick and two run together before falling off the spoon._
 
 That seems pretty clear, so off I go! The raspberries cook down nicely, the sugar is warmed and added, and I'm stirring away. I pull spoon after spoon out of the drawer and try to "test" it, not really knowing exactly what I'm looking for. There is a point where the jam ungracefully "glops" off the spoon in large batches (remember this bit for later), but I don't really see "two [drops] run together before falling off" so I keep cooking. Eventually the jam on the spoon is far too hot to lick off after testing - which I'd been doing, of course. It's at this point that I knew I was in trouble.
 

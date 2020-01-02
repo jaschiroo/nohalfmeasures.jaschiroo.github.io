@@ -2,7 +2,7 @@
 layout: post
 title: "42 pounds of Meyer lemons might be too much"
 date: 2019-12-20
-image: /assets/meyerlemons.jpg
+image: /assets/lemons/meyerlemons.jpg
 ---
 
 If you haven't heard about them yet, Meyer lemons are a gift from the gods of sunnier places than Minnesota. They're a cross between an orange and a lemon, and so they are juicier, have thinner skins and a sweeter flavor than the lemons you're used to. This year, I ended up with 42 lbs of them.
@@ -13,50 +13,50 @@ In mid-November I went to Aldi and noticed that they had a box of Meyer lemons i
 
 When I came back the warehouse hadn't shipped any at all, so with some anxiety I bought the 5 lbs they had. The next week I happened to stop by a different Aldi and saw a box of 12 lbs! Of course I bought that, because I was worried that my store wouldn't ever get any in, but that's when I realized that a "case" is 12 lbs of lemons. As my luck goes, a few days later I got a call from my store saying they got three boxes in, and did I want all three? Knowing now that I already had 18 lbs and I had unwittingly asked for 24 more...I said I was just fine with two cases. That's how there came to be three huge boxes of Meyer lemons in my kitchen, and me with many, many days of processing lemons ahead of me.
 
-<img src="/assets/boxesoflemons.jpg" alt="boxes of lemons" width="50%">
+<img src="/assets/lemons/boxesoflemons.jpg" alt="boxes of lemons" width="50%">
 
 To make lemon curd, I followed [this recipe](https://foodinjars.com/recipe/meyer-lemon-curd/), but tripled ([here's my version](/recipes/2019/12/20/meyer-lemon-curd.html)). I estimated that I had (42*4) = 168 lemons (one bag had 5 smaller ones instead of 4 like everyone else, but there was also one rotten one, so it worked out), and each triple batch makes 5 1/2 or 6 pints depending on how juicy the lemons are so that's 11 triple batches making...up to 66 pints?! Plus each batch takes about 2 hours to complete, but regardless I started in. It's actually quite a fun process.
 
 <div class="clearfix">
   <div class="img-container">
-    <a target="blank" href="/assets/meyerlemons.jpg">
-      <img src="/assets/meyerlemons.jpg" alt="bowl of lemons" style="width:100%">
+    <a target="blank" href="/assets/lemons/meyerlemons.jpg">
+      <img src="/assets/lemons/meyerlemons.jpg" alt="bowl of lemons" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/supplies.jpg">
-      <img src="/assets/supplies.jpg" alt="supplies" style="width:100%">
+    <a target="blank" href="/assets/lemons/supplies.jpg">
+      <img src="/assets/lemons/supplies.jpg" alt="supplies" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/zest.jpg">
-      <img src="/assets/zest.jpg" alt="zest" style="width:100%">
+    <a target="blank" href="/assets/lemons/zest.jpg">
+      <img src="/assets/lemons/zest.jpg" alt="zest" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/30eggs.jpg">
-      <img src="/assets/30eggs.jpg" alt="30 eggs" style="width:100%">
+    <a target="blank" href="/assets/lemons/30eggs.jpg">
+      <img src="/assets/lemons/30eggs.jpg" alt="30 eggs" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/yolks.jpg">
-      <img src="/assets/yolks.jpg" alt="yolks" style="width:100%">
+    <a target="blank" href="/assets/lemons/yolks.jpg">
+      <img src="/assets/lemons/yolks.jpg" alt="yolks" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/cookingcurd.jpg">
-      <img src="/assets/cookingcurd.jpg" alt="cooking curd" style="width:100%">
+    <a target="blank" href="/assets/lemons/cookingcurd.jpg">
+      <img src="/assets/lemons/cookingcurd.jpg" alt="cooking curd" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/lemoncurd.jpg">
-      <img src="/assets/lemoncurd.jpg" alt="finished curd" style="width:100%">
+    <a target="blank" href="/assets/lemons/lemoncurd.jpg">
+      <img src="/assets/lemons/lemoncurd.jpg" alt="finished curd" style="width:100%">
     </a>
   </div>  
 </div>
@@ -78,74 +78,74 @@ Here's the final tally:
 
 <div class="clearfix">
   <div class="img-container">
-  <a target="blank" href="/assets/firstbatch.jpg">
-    <img src="/assets/firstbatch.jpg" alt="first batch of curd" style="width:100%">
+  <a target="blank" href="/assets/lemons/firstbatch.jpg">
+    <img src="/assets/lemons/firstbatch.jpg" alt="first batch of curd" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/secondbatch.jpg">
-    <img src="/assets/secondbatch.jpg" alt="second batch of curd" style="width:100%">
+  <a target="blank" href="/assets/lemons/secondbatch.jpg">
+    <img src="/assets/lemons/secondbatch.jpg" alt="second batch of curd" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/cannedbatch.jpg">
-    <img src="/assets/cannedbatch.jpg" alt="third batch of curd" style="width:100%">
+  <a target="blank" href="/assets/lemons/cannedbatch.jpg">
+    <img src="/assets/lemons/cannedbatch.jpg" alt="third batch of curd" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/giftbatch.jpg">
-    <img src="/assets/giftbatch.jpg" alt="last batch of curd" style="width:100%">
+  <a target="blank" href="/assets/lemons/giftbatch.jpg">
+    <img src="/assets/lemons/giftbatch.jpg" alt="last batch of curd" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/lemonade.jpg">
-    <img src="/assets/lemonade.jpg" alt="Lemonade" style="width:100%">
+  <a target="blank" href="/assets/lemons/lemonade.jpg">
+    <img src="/assets/lemons/lemonade.jpg" alt="Lemonade" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/limoncello.jpg">
-    <img src="/assets/limoncello.jpg" alt="Limoncello" style="width:100%">
+  <a target="blank" href="/assets/lemons/limoncello.jpg">
+    <img src="/assets/lemons/limoncello.jpg" alt="Limoncello" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/lemonpoppyseedbread.jpg">
-    <img src="/assets/lemonpoppyseedbread.jpg" alt="Lemon poppyseed bread" style="width:100%">
+  <a target="blank" href="/assets/lemons/lemonpoppyseedbread.jpg">
+    <img src="/assets/lemons/lemonpoppyseedbread.jpg" alt="Lemon poppyseed bread" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/lemonpies.jpg">
-    <img src="/assets/lemonpies.jpg" alt="Lemon pies" style="width:100%">
+  <a target="blank" href="/assets/lemons/lemonpies.jpg">
+    <img src="/assets/lemons/lemonpies.jpg" alt="Lemon pies" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/marmalade.jpg">
-    <img src="/assets/marmalade.jpg" alt="Marmalade" style="width:100%">
+  <a target="blank" href="/assets/lemons/marmalade.jpg">
+    <img src="/assets/lemons/marmalade.jpg" alt="Marmalade" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/lemonalmondcakes.jpg">
-    <img src="/assets/lemonalmondcakes.jpg" alt="Lemon almond cakes" style="width:100%">
+  <a target="blank" href="/assets/lemons/lemonalmondcakes.jpg">
+    <img src="/assets/lemons/lemonalmondcakes.jpg" alt="Lemon almond cakes" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/lemonbars.jpg">
-    <img src="/assets/lemonbars.jpg" alt="Lemon Bars" style="width:100%">
+  <a target="blank" href="/assets/lemons/lemonbars.jpg">
+    <img src="/assets/lemons/lemonbars.jpg" alt="Lemon Bars" style="width:100%">
   </a>
 </div>
 
   <div class="img-container">
-  <a target="blank" href="/assets/lemonjuice.jpg">
-    <img src="/assets/lemonjuice.jpg" alt="Lemon juice" style="width:100%">
+  <a target="blank" href="/assets/lemons/lemonjuice.jpg">
+    <img src="/assets/lemons/lemonjuice.jpg" alt="Lemon juice" style="width:100%">
   </a>
 </div>
 </div>

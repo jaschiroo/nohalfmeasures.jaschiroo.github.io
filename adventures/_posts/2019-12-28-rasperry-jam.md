@@ -2,12 +2,36 @@
 layout: post
 title: "Misadventures in jam-making: how to make jar-shaped candy"
 date: 2019-12-28
-image: /assets/jamjars.jpg"
+image: /assets/jam/jamjars.jpg"
 ---
 
 **Part 1: in which I make some lovely jar-shaped raspberry candy**
 
-This is my first time making jam, as you can probably guess from the title. Here's how it started: in May of 2016, about three years ago, I excitedly dug up part of my front yard to plant perennials and my childhood dream: two raspberry bushes. Winter of 2018 I'm loathe to cut them back because I'm afraid of limiting my eventual raspberry haul, and my bushes certainly do not disappoint: fast forward to July 2019 and I'm overrun. We're supposed to leave for a family reunion for 5 days, and my enormous red raspberry is heavy with berries. We frantically pick berries for several hours in the hot sun the day before we're supposed to leave, and tell all our neighbors to come pick them while we're gone. All in all I end up freezing five gallon bags of raspberries for _something_ in the future.
+This is my first time making jam, as you can probably guess from the title. Here's how it started: in May of 2016, about three years ago, I excitedly dug up part of my front yard to plant perennials and my childhood dream: two raspberry bushes. Winter of 2018 I'm loathe to cut them back because I'm afraid of limiting my eventual raspberry haul, and my bushes certainly do not disappoint: fast forward to July 2019 and I'm overrun.
+
+<div class="clearfix">
+  <div class="img-container">
+    <a target="blank" href="/assets/jam/babyraspberries.jpg">
+      <img src="/assets/jam/babyraspberries.jpg" alt="cute little raspberries, year 1" style="width:100%">
+    </a>
+  </div>
+
+  <div class="img-container">
+    <a target="blank" href="/assets/jam/hugeraspberries.jpg">
+      <img src="/assets/jam/hugeraspberries.jpg" alt="enormous raspberries, year 3" style="width:100%">
+    </a>
+  </div>
+  </div>
+
+We're supposed to leave for a family reunion for 5 days, and my enormous red raspberry is heavy with berries. We frantically pick berries for several hours in the hot sun the day before we're supposed to leave, and tell all our neighbors to come pick them while we're gone. All in all I end up freezing five gallon bags of raspberries for _something_ in the future.
+
+<div class="clearfix">
+  <div class="img-container">
+    <a target="blank" href="/assets/jam/raspberries.jpg">
+      <img src="/assets/jam/raspberries.jpg" alt="just one handful of many" style="width:100%">
+    </a>
+  </div>
+  </div>
 
 Now it's December, and I'm wondering, what do you do with five gallons of frozen raspberries? My first thought is jam. However, it's currently raining ice (thanks, Minnesota winter) and I don't have any pectin, so I try to find a recipe that will work. It calls for 4 cups of raspberries and 4 cups of sugar. Sounds easy enough. You gently warm the sugar in a glass dish in the oven at a low temperature to facilitate melting, and then you start cooking down the raspberries, add the sugar, and boil until (and I quote, because here's where the struggle started):
 
@@ -25,7 +49,7 @@ I struggle to fill three half-pint jars with the tar-like jam, and am honestly w
 
 This is where I know. That last jar starts cooling, and the resulting substance is hard enough to tap a spoon into and only leave a dent. The three full jars are still boiling, but I know this isn't how jam is supposed to feel.
 
-<img src="/assets/raspberrycandy.gif">
+<img src="/assets/jam/raspberrycandy.gif">
 
 After some frantic Googling, yes, I've overcooked my jam. Several things could have gone smoother: I should have watched some videos about how to tell whether your jam is done. I probably should've used a thermometer. I definitely need to figure out what to do now.
 
@@ -42,4 +66,22 @@ _This time_ I'm using my infrared thermometer to keep a close eye on the progres
 
 When the proto-jam reaches about 212°F I start feeling worried and grab a spoon out of the drawer to see how it runs off. It doesn't seem _quite_ thick enough so we go a bit longer, to 218°F and then I pull it off. This time, I've had the jars in the boiling water the whole time the jam was cooking so that I can just pull them out and fill them without a delay. I feel pretty slick about that.
 
-As I write the jam is cooling, and most of them have popped. The spoons and plate are still in the freezer because I didn't dare stop stirring to get them (oh well). We'll see if this batch worked!
+As I write the jam is cooling, and most of them have popped. The spoons and plate are still in the freezer because I didn't dare stop stirring to get them (oh well).
+
+<div class="clearfix">
+  <div class="img-container">
+    <a target="blank" href="/assets/jam/jamjars.jpg">
+      <img src="/assets/jam/jamjars.jpg" alt="steaks, seasoned and vaccum sealed for sous vide" style="width:100%">
+    </a>
+  </div>
+  </div>
+
+  The jam turned out slightly stiffer than I would have preferred, but it's spreadable! As soon as they were cool I popped open a jar and tried it on some fruit bread. It's good!
+
+  <div class="clearfix">
+    <div class="img-container">
+      <a target="blank" href="/assets/jam/jam.jpg">
+        <img src="/assets/jam/jam.jpg" alt="steaks, seasoned and vaccum sealed for sous vide" style="width:100%">
+      </a>
+    </div>
+    </div>

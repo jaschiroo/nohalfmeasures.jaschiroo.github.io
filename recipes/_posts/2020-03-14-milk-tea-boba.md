@@ -31,3 +31,5 @@ Directions
 5. Put boba in a 16 oz glass and add sweetened condensed milk. Let sit for any amount of time, ideally 1 hour
 6. Add chilled chai, stir to combine
 7. Enjoy with a spoon or boba straw!
+
+Notes: for taro boba, add 3 Tbsp taro powder. See [taro boba adventure](/adventures/2020/03/11/taro-boba.html)!

@@ -2,10 +2,11 @@
 layout: post
 title: "Milk tea boba"
 date: 2020-03-14
-<!--image: /assets/boba/milktea.jpg-->
+image: /assets/boba/milktea.jpg
 ---
 
 For the tea:
+
 Ingredients
 - 4 tea bags (I used Twinings decaf Chai)
 - 1.5 liters boiling water
@@ -17,6 +18,7 @@ Directions
 3. Chill
 
 For the boba:
+
 Ingredients
 - 6 cups water
 - 1/3 cup "quick cooking" boba per person

@@ -15,16 +15,50 @@ I used [this recipe](https://www.eatingbirdfood.com/easy-baked-falafel/), with t
 
 <div class="clearfix">
   <div class="img-container">
-    <a target="blank" href="/assets/rhubarb/ingredients.jpg">
-      <img src="/assets/rhubarb/ingredients.jpg" alt="falwaffel ingredients" style="width:100%">
+    <a target="blank" href="/assets/falwaffels/ingredients.jpg">
+      <img src="/assets/falwaffels/ingredients.jpg" alt="falwaffel ingredients" style="width:100%">
     </a>
   </div>
 
   <div class="img-container">
-    <a target="blank" href="/assets/rhubarb/falwaffel-batter.jpg">
-      <img src="/assets/rhubarb/falwaffel-batter.jpg" alt="falwaffel batter ready to use!" style="width:100%">
+    <a target="blank" href="/assets/falwaffels/falwaffel-batter.jpg">
+      <img src="/assets/falwaffels/falwaffel-batter.jpg" alt="falwaffel batter ready to use!" style="width:100%">
     </a>
   </div>
 </div>
 
-The secret is to use lots - and I mean _lots_ of oil on the waffle maker. This is our old waffle maker, and the non-stick surface was a little worn out, so it already needed special care. Falwaffels need to cook much longer than their typical waffle counterparts, but through trial and error we pretty much figured it out.
+One tip is to blend everything except the chickpeas to break down the parsley, and then add half the chickpeas, blend and then add the rest. This lets you control the final texture while making sure all of the initial ingredients are well-mixed. The secret is to use lots - and I mean _lots_ of oil on the waffle maker. This is our old waffle maker, and the non-stick surface was a little worn out, so it already needed special care. Falwaffels need to cook much longer than their typical waffle counterparts, but through trial and error we pretty much figured it out.
+
+<div class="clearfix">
+  <div class="img-container">
+    <a target="blank" href="/assets/falwaffels/cooking-falwaffel.jpg">
+      <img src="/assets/falwaffels/cooking-falwaffel.jpg" alt="putting the batter on the waffle maker" style="width:100%">
+    </a>
+  </div>
+
+  <div class="img-container">
+    <a target="blank" href="/assets/falwaffels/halfway-cooked.jpg">
+      <img src="/assets/falwaffels/halfway-cooked.jpg" alt="if you open it too early it sticks" style="width:100%">
+    </a>
+  </div>
+</div>
+
+You do need to wait for the inside of the falwaffel to finish cooking, or it will come apart. In our waffle maker that's about 10  minutes.
+
+<div class="clearfix">
+  <div class="img-container">
+    <a target="blank" href="/assets/falwaffels/falwaffel.jpg">
+      <img src="/assets/falwaffels/falwaffel.jpg" alt="finished falwaffel" style="width:100%">
+    </a>
+  </div>
+
+  <div class="img-container">
+    <a target="blank" href="/assets/falwaffels/falwaffel-sauce.jpg">
+      <img src="/assets/falwaffels/falwaffel-sauce.jpg" alt="falwaffel with homemade tahini-yogurt sauce" style="width:100%">
+    </a>
+  </div>
+</div>
+
+The result is crispy and delicious! It doesn't have the crunchy exterior texture of a deep-fried falafel, but it does capture the flavor and texture of the inside. I've served it with a homemade tahini-yogurt sauce (really just tahini, yogurt, olive oil and lemon juice) and mixed cut veggies.
+
+I did try this recipe in the oven as written, after much prodding. It works out quite well that way too! The trick is not adding too much liquid, completely opposite my first try.

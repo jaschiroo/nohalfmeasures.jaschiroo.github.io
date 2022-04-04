@@ -2,7 +2,7 @@
 layout: post
 title: "Grandma Betty's Rhubarb Pie"
 date: 2020-06-15
-image: /assets/rhubarb-pie.jpg
+image: /assets/rhubarb/rhubarb-pie.jpg
 ---
 Ingredients
 

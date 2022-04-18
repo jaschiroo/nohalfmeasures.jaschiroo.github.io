@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Horchata"
+title: "Homemade Horchata"
 date: 2022-04-11
 image: /assets/horchata/horchata.jpg
 ---

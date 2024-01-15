@@ -103,7 +103,7 @@ We've had this one for a while, and have been unimpressed so far. The curve of t
 **OXO**
 The OXO surprised me with the tortilla, it wasn't as smooth as the Target pan but it wasn't awful. It earns a 3 from me and an "adequate" (3) from SO.
 
-### Flipping a Tortilla Pieces
+### Flipping Tortilla Pieces
 
 <img src="/assets/frypans/tortilla-pieces.jpg" alt="Flipping small pieces of tortilla" class="image-style" />
 

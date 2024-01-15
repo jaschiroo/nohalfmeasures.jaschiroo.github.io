@@ -1,31 +1,31 @@
 body {
-    margin: 60px auto;
-    width: 80%;
-    font-family: "Lato", sans-serif;
-    background: #f1f1f1;
+  margin: 60px auto;
+  width: 80%;
+  font-family: "Lato", sans-serif;
+  background: white;
 }
 
 .pagetitle{
-  background: white;
-  font-size: 30px;
-  font-weight: bold;
-  padding: 10px;
-  margin-bottom: 10px;
-  text-align: center;
+background: white;
+font-size: 30px;
+font-weight: bold;
+padding: 10px;
+margin-bottom: 10px;
+text-align: center;
 }
 
 
 
 * {
-  box-sizing: border-box;
+box-sizing: border-box;
 }
 
 /* a {
-    text-decoration: none;
-    color: black; */
-}
+  text-decoration: none;
+  color: black; 
+}*/
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .item1 { grid-area: headerbox; }
@@ -34,85 +34,92 @@ a:hover {
 .item4 { grid-area: footer; }
 
 .grid-container {
-  display: grid;
-  grid-template-columns: 5fr 1fr;
-  grid-template-areas:
-    'headerbox headerbox'
-    'main navbar'
-    'footer navbar';
-    grid-gap: 10px;
-    background-color: #f1f1f1;
-    padding: 10px;
+display: grid;
+grid-template-columns: 5fr 1fr;
+grid-template-areas:
+  'headerbox headerbox'
+  'main navbar'
+  'footer navbar';
+  grid-gap: 10px;
+  background-color: white;
+  padding: 10px;
 }
 
 .headerbox {
-  background-color: white;
-  text-align: center;
-  padding: 20px 0;
+background-color: white;
+text-align: center;
+padding: 20px 0;
 }
 
 .header {
-  padding: 1px;
-  text-align: center;
-  background: gold;
-  color: white;
-  font-size: 40px;
-  font-family: cursive;
+padding: 1px;
+text-align: center;
+background: gold;
+color: white;
+font-size: 40px;
+font-family: cursive;
 }
 
 .navbar {
-  background-color: white;
-  text-align: left;
-  padding: 5px 5px;
-  font-size: 20px;
-  font-family: "Lato", sans-serif;
+background-color: white;
+text-align: left;
+padding: 5px 5px;
+font-size: 20px;
+font-family: "Lato", sans-serif;
 }
 
 .main {
-  text-align: left;
+text-align: left;
 }
 
 .footer {
-  background-color: white;
-  text-align: left;
-  padding: 20px 10px;
+background-color: white;
+text-align: left;
+padding: 20px 10px;
 }
 
 .card {
-   background-color: white;
-   padding: 10px;
-   margin-bottom: 10px;
+ background-color: white;
+ padding: 10px;
+ margin-bottom: 10px;
 }
 
 div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
+margin: 5px;
+border: 1px solid #ccc;
+float: left;
+width: 180px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+border: 1px solid #777;
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+width: 100%;
+height: auto;
 }
 
 div.desc {
-  padding: 15px;
-  text-align: center;
+padding: 15px;
+text-align: center;
 }
 
 .img-container {
-  float: left;
-  width: 25%;
-  padding: 5px;
+float: left;
+width: 25%;
+padding: 5px;
 }
 
 .clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
+content: "";
+clear: both;
+display: table;
+}
+
+.image-style {
+width: 60%;
+display: block;
+margin-left: auto;
+margin-right: auto;
 }

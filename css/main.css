@@ -123,3 +123,10 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+
+.image-style {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -53,10 +53,10 @@ I tried to find an assortment of potential pans to try out. Another desired attr
     * Cooking surface diameter: 9"
     * Induction base diameter: 9"
 
-For a relatively unfair comparison, here are the stats for the aluminum non-stick pans we can no longer use:
+For an incredibly unfair comparison, here are the stats for the aluminum non-stick pans we can no longer use:
 * Hy-Vee 11" nonstick
     * Weight: 1 lb 12.9 oz (822 g)
-    * Rim diameter: 11:
+    * Rim diameter: 11"
     * Cooking surface diameter: 8.5"
 * Target 11" nonstick
     * Weight: 14.9 oz (423 g)

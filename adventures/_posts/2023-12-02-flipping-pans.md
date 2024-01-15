@@ -54,7 +54,7 @@ I tried to find an assortment of potential pans to try out. Another desired attr
     * Induction base diameter: 9"
 
 For a relatively unfair comparison, here are the stats for the aluminum non-stick pans we can no longer use:
-* HyVee 11" nonstick
+* Hy-Vee 11" nonstick
     * Weight: 1 lb 12.9 oz (822 g)
     * Rim diameter: 11:
     * Cooking surface diameter: 8.5"
@@ -67,9 +67,9 @@ For a relatively unfair comparison, here are the stats for the aluminum non-stic
     * Rim diameter: 8"
     * Cooking surface diameter: 6"
 
-I made a point of dragging my SO out to a physical store at the actual mall to flip some pans in real life. We were considering several pans from All-Clad, Scanpan, GreenPan, and Zwilling. Of these, primarly the average retail price of $100+ is the kicker - if I'm not sure that this pan will work for me after waving it around in the air while the sales associate hovers nearby awkwardly, do I want to buy it and then risk dealing with whatever returns process they have? Not yet. I do think that the Zwilling stood the best chance of being a nice flipping pan out of that set, and I still want to go flip some pans at the local Cooks \| Bellecour.
+I made a point of dragging my SO out to a physical store at the actual mall to flip some pans in real life. We were considering several pans from All-Clad, Scanpan, GreenPan, and Zwilling. Of these, primarly the average retail price of $100+ is the kicker - if I'm not sure that this pan will work for me after waving it around in the air while the sales associate hovers nearby awkwardly, do I want to buy it and then risk dealing with whatever returns process they have? Not yet. I do think that the Zwilling stood the best chance of being a nice flipping pan out of that set, and I still wish we'd go flip some pans at the local Cooks \| Bellecour.
 
-Of the pans that I did purchase, I'm most worried about the Misen stainless steel and the Tramontina carbon steel. I am not known for cooking delicately, or patience, and it seems like both will require that and a decent amount of skill. In order to give it a fair shake, I have been reading tips on cooking with stainless steel. We also bought an 8" Figmint nonstick ceramic, but it was too small or the ferrous metal content wasn't high enough for it to register on even the smallest burner, which is supposed to accept a 4.5" minimum diameter pan. We'll get to test this theory with the KitchenAid, although for comparison to the rest of the pans it would have been better to have another 10" version.
+Of the pans that I did purchase, I'm most worried about the Misen stainless steel and the Tramontina carbon steel. I am not known for cooking delicately, or patience, and it seems like both will require that and a decent amount of skill. In order to give it a fair shake, I have been reading tips on cooking with stainless steel. We also bought an 8" Figmint nonstick ceramic, but either the induction base was too small or the ferrous metal content wasn't high enough for it to register on even the smallest burner, which is supposed to accept a 4.5" minimum diameter pan. We got to test this theory with the KitchenAid (it worked), although for comparison to the rest of the pans it would have been better to have another 10" version.
 
 
 ## Use Cases
@@ -86,7 +86,7 @@ This is by far the lightest pan, and also the easiest to flip with because of th
 This pan was actually too small to flip a whole tortilla. To get the same effect, we cut down a tortilla by about 2 inches, and then it earned a grade of "fair" (2) from SO and a 1 from me.
 
 **Chefmate Nonstick**
-It's very easy to flip a whole tortilla in this pan, and then for a fair comparison we also flipped a cut-down tortilla - still gerat. The curve on this pan is much more open than the Kitchenaid. This pan earned a 3 from me and a "good" (4) from SO.
+It's very easy to flip a whole tortilla in this pan, and then for a fair comparison we also flipped a cut-down tortilla - still great. The curve on this pan is much more open than the Kitchenaid. This pan earned a 3 from me and a "good" (4) from SO.
 
 **Tramontina**
 I think this pan would be great if it didn't weigh so much. The curve is actually really nice, but you have to hold it with two hands and honestly take a stance to flip with this pan. It earned a 3 from me and a "fair enough" (2) from SO.
@@ -115,7 +115,7 @@ For this and the crepe test I only had 2 of the pans available, but recording th
 <img src="/assets/frypans/oxo-release.jpg" alt="The naan gets stuck in the curve of the rim" class="image-style" />
 
 ### Flipping Crepes
-Neither the OXO nor Figmint made flipping crepes easy. It could be the learning curve of using a new induction stove, or letting the butter sit for too long before adding batter, but it was just as easy to use my fingers to flip the crepes as to get them to release enough in either pan to flip them.
+Neither the OXO nor Figmint made flipping crepes easy. It could be the learning curve of using a new induction stove, or letting the butter sit for too long before adding batter, but it was much easier to use my fingers to flip the crepes than to get them to release enough in either pan to flip them.
 
 ## Conclusions
 ### Which one would I recommend?

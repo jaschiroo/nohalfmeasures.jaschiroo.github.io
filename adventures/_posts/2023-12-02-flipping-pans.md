@@ -15,7 +15,7 @@ I tried to find an assortment of potential pans to try out. Another desired attr
 
 ## The Contenders
 
-<img src="/assets/frypans/weights.jpg" alt="Graph of pan weight vs score" class="image-style" />
+<img src="/assets/frypans/weights.png" alt="Graph of pan weight vs score" class="image-style" />
 
 * [Figmint 10" Nonstick Ceramic Coated Aluminum Frypan](https://www.target.com/p/10-34-nonstick-ceramic-coated-aluminum-frypan-sage-green-figmint-8482/-/A-87713707?)
     * Weight: 2 lb 1.5 oz (950g)

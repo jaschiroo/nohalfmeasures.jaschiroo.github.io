@@ -7,7 +7,7 @@ image: /assets/blueberries/box.jpg
 
 I happened to get offered a 4lb box of blueberries, and who could say no to that? I rode home happily snacking, and then had to decide what to do with slightly less than 4lbs of blueberries.
 
-<img src="/assets/blueberries/weighing.jpg" alt="Weighing out berries for jam" class="image-style" />
+<img src="/assets/blueberries/weighing.jpg" alt="Weighing out berries for jam" class="image-style"/>
 
 The first thing I did was make blueberry jam, thinking that this is the most versatile thing that I could use to make many other things from, and would prevent the blueberries from going bad before I had a chance to use them.
 

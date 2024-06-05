@@ -33,8 +33,8 @@ Directions
 
 **To make this vegan**
 - use your favorite plant-based butter
-- use 1/4 applesauce in place of the eggs. It will be a softer bread.
-- use alternative milk. I'm not sure if you can omit the vinegar if you do.
+- use 1/2 applesauce in place of the two eggs. It will be a softer bread.
+- use alternative milk. I'm not sure whether you can omit the vinegar if you do.
 
 **To add more fiber**
 - Add 1/4 cup of ground flax seed and 1/4 cup of chia seeds

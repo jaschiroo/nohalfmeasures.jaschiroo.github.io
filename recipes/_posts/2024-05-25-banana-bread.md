@@ -5,7 +5,7 @@ date: 2024-05-25
 image: /assets/banana-bread/loaves2.jpg
 ---
 
-<img src="/assets/banana-bread/loaves2.jpg" alt="veggies before roasting" class="image-style"/>
+<img src="/assets/banana-bread/loaves2.jpg" alt="banana bread loaves" class="image-style"/>
 
 Ingredients
 - 1/2 c butter

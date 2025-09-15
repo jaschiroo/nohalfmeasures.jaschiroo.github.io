@@ -2,7 +2,10 @@
 layout: post
 title: "Justina's Saag Paneer"
 date: 2019-01-21
+image: /assets/saag/saag-paneer.jpg
 ---
+
+<img src="/assets/saag/saag-paneer.jpg" alt="Plate of saag paneer" class="image-style" />
 
 This is a recipe tweaked from many other saag paneer recipes, taking bits that I loved and leaving difficult steps out. I think this one has the smoothest, most flavorful sauce.
 
